@@ -7,7 +7,7 @@ export default function Home() {
         </h1>
 
         <p className="text-xl text-gray-700">
-          Your Next Generation Ecommerce Store
+          Pakistan's Local Shopping Destination
         </p>
       </div>
     </main>
